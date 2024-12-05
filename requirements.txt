@@ -1,0 +1,13 @@
+imageio==2.31.2
+matplotlib==3.8.4
+numpy==1.24.4
+nvidia-cudnn-cu12==8.9.2.26
+nvidia-nccl-cu12==2.19.3
+opencv-python==4.8.0.76
+pandas==2.2.2
+Pillow==10.0.0
+scipy==1.10.1
+torch==2.2.2
+torchaudio==2.2.2
+torchvision==0.17.2
+tqdm==4.66.2
